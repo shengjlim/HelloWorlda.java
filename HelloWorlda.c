@@ -1,5 +1,5 @@
 /**
-  Author: Sheng-Jie Lim and Connor Jolley
+  Author: Sheng-Jie Lim and the Connor Jolley
   Date: 08/23/2017
   Hello World in C
 */
